@@ -1,0 +1,2 @@
+# JSCarousel
+Simple carousel/slideshow
